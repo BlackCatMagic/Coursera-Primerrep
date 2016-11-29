@@ -1,0 +1,81 @@
+
+body {
+  background-image:url("Fondoenbody.png") no-repeat;
+  background-color:#9FE0AA;
+
+}
+
+header
+{
+  margin-left:1.2em;
+  margin-right:1em;
+  
+
+}
+
+#container {
+background-image:url("blur.png");
+background-repeat: repeat;
+background-size:cover;
+width:95%;
+border-style:solid;
+border-width:5px;
+border-color:#FF7F27;
+margin-left:auto;
+margin-right:auto;
+height:100%;
+margin-top:5%;
+
+}
+*/
+
+#main p {
+
+color:skyblue;
+text-align: center;
+
+}
+
+#content {
+padding:1px;
+border-style:solid;
+border-width:5px;
+border-color:#5AE0CB;
+border:5px;
+
+}
+
+
+#nav{
+width:25%;
+background-color:purple;
+float:right;
+margin: 0 4% 0 1.1%;
+}
+
+
+#main {
+background-color:red;
+width:63%;
+float:right;
+margin-right: auto;
+margin: 0 0 3% 5%;
+
+}
+
+#sidebar-izquierda {
+float: left;
+background-color:red;
+width:5.9%;
+margin: 0 2% 5% 0;
+}
+
+#footer {
+background-image:url( "barra.png");
+  text-color:#8C004F;
+  text-align:center;;
+  float:none;
+  clear:both;
+  padding:20px;
+
+}
